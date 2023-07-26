@@ -1,2 +1,1 @@
-Hello Gamelab Indonesia,
-Ini repository kedua saya
+Repository baru dari PC lokal
